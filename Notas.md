@@ -9,9 +9,8 @@
 ---
 
 ## Índice
-- [Lista ordenada](#lista-ordenada)
-- [Lista desordenada](#lista-desordenada)
-- [Enlaces](#enlaces)
+- [Enlaces para diseño web](#Enlaces-para-diseño-web)
+- [Enlaces de webs bonitas/bien diseñadas](#Enlaces-de-webs-bonitas/bien-diseñadas)
 - [Imagen](#imagen)
 - [Tabla de pikmins](#tabla-de-pikmins)
 
