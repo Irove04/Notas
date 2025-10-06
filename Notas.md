@@ -22,10 +22,17 @@
 ## Enlaces para diseño web
 1. [Botones, Tarjetas, etc](https://uiverse.io/)
 2. [Cajas](https://neumorphism.io/#deddda)
+3. [libreria de JS para animaciones fluidas](https://animejs.com)
+4. [Componentes para React](https://reactbits.dev/get-started/introduction)
 
 ## Enlaces de webs bonitas/bien diseñadas
 1. [Página del tarot](https://tarotoo.com/es/)
 2. [Página de pasta de dientes](https://www.marvis.com/spain/es/)
+
+##Enlaces programación
+1. [Visualizar codigo en tiempo real](https://staying.fun/en)
+2. [Generar diagramas UML](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700001)
+3. [Pagina para aprender lo que sea](https://learn-anything.xyz)
 
 
 
