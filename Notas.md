@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="portadaNotas.png" alt="Portada" width="600"/>
-</p>
+</p> -->
 
 
 # Aqui guardare enlaces o cosas interesantes/importantes
