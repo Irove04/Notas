@@ -29,10 +29,14 @@
 1. [Página del tarot](https://tarotoo.com/es/)
 2. [Página de pasta de dientes](https://www.marvis.com/spain/es/)
 
-##Enlaces programación
+## Enlaces Programacion
 1. [Visualizar codigo en tiempo real](https://staying.fun/en)
 2. [Generar diagramas UML](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700001)
 3. [Pagina para aprender lo que sea](https://learn-anything.xyz)
+
+## Enlaces Tamagotchi
+1. [Explicación Passwords Entama/Uratama](https://curlour.neocities.org/en/tmgc/entama/expw)
+3. [Más explicación Entama/Uratama Passwords](https://www.tapatalk.com/groups/tamazone/explanation-of-e-tamago-passwords-t2615.html)
 
 
 
